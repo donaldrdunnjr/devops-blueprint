@@ -1,0 +1,6 @@
+# GitHub Actions Examples
+
+Workflows for:
+- Building Java apps
+- Running test suites
+- Deploying to AWS
