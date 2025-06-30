@@ -1,0 +1,6 @@
+# CI/CD Principles
+
+Goals:
+- Fast, reliable deployments
+- Fail early, fail safe
+- Automate everything
