@@ -1,0 +1,6 @@
+# Shift-Left Testing
+
+Incorporate testing early in the lifecycle:
+- Unit tests on every commit
+- Integration tests in CI
+- Static analysis and security scans
